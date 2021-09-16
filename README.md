@@ -1,6 +1,6 @@
 # maven-registry-example
 
-##Install packages
+## Install packages
 - Add `~/.m2/settings.xml` and put the following contents in it:
 ```xml
 <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
